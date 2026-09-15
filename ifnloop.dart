@@ -64,13 +64,13 @@ void main(){
     // }
 
     //do while
-//     list datamhs = ['Sindy', 'Windy', 'Karen', 'Vincent'];
-//     var i-0;
-//     do {
-//         print('nama mhs ke ${i + 1} adalah ${datamhs[1]}');
-//         i++;
-//         while (i < datamhs.length);
-// }
+    //     list datamhs = ['Sindy', 'Windy', 'Karen', 'Vincent'];
+    //     var i-0;
+    //     do {
+    //         print('nama mhs ke ${i + 1} adalah ${datamhs[1]}');
+    //         i++;
+    //         while (i < datamhs.length);
+    // }
 
 
 //input pengguna
